@@ -51,7 +51,7 @@ const PopularCardCap = ({ onClickHandler }) => {
           Капучино
         </Text>
         <Text style={{ fontSize: 12, fontWeight: "bold", color: theme1.black }}>
-          Сүт көбігі бар тәтті кофе
+          сүт көбігі бар кофе
         </Text>
       </View>
     </TouchableOpacity>
